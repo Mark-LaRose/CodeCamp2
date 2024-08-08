@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6333e36c.css",
-    "main.js": "/static/js/main.9fc76476.js",
-    "static/js/156.967037b9.chunk.js": "/static/js/156.967037b9.chunk.js",
-    "index.html": "/index.html",
-    "main.6333e36c.css.map": "/static/css/main.6333e36c.css.map",
-    "main.9fc76476.js.map": "/static/js/main.9fc76476.js.map",
-    "156.967037b9.chunk.js.map": "/static/js/156.967037b9.chunk.js.map"
+    "main.css": "/CodeCamp2/static/css/main.6333e36c.css",
+    "main.js": "/CodeCamp2/static/js/main.a6456494.js",
+    "static/js/156.967037b9.chunk.js": "/CodeCamp2/static/js/156.967037b9.chunk.js",
+    "index.html": "/CodeCamp2/index.html",
+    "main.6333e36c.css.map": "/CodeCamp2/static/css/main.6333e36c.css.map",
+    "main.a6456494.js.map": "/CodeCamp2/static/js/main.a6456494.js.map",
+    "156.967037b9.chunk.js.map": "/CodeCamp2/static/js/156.967037b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6333e36c.css",
-    "static/js/main.9fc76476.js"
+    "static/js/main.a6456494.js"
   ]
 }
